@@ -1,12 +1,8 @@
+## EXPERIMENT-04-TRASFERING-DATA-TO-MQTT-CLOUD-USING-PYTHON-INTERFACE-
 ### NAME:Aditya Naga Sai P
 ### ROLL NO : 212223110036
 ### DEPARTMENT :IOT
 ### DATE
-
-
-
-## EXPERIMENT-04-TRASFERING-DATA-TO-MQTT-CLOUD-USING-PYTHON-INTERFACE-
-
 
 ## AIM:
 To transfer data from a Python script to an MQTT cloud server (HiveMQ Cloud) using the MQTT protocol. 
